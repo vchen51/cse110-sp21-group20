@@ -38,3 +38,6 @@ potential terms that they would like to see covered in the document.
 > 3. Holding a meeting at least once a week to check in with everyone in terms of tracking progress towards the goal of the group.
 > 4. Everyone is expected to be flexible, understanding, willing to help others, and willing to communicate to the best of their ability.
 > 5. Any issue should be tried to be solved within the group and if there are no ways to solve a particular problem, the manager (TA) will be the outside source of help for solving the issue.
+
+* * * 
+**Meeting End Time:** 10:37 a.m PST
