@@ -5,6 +5,13 @@
 
 
  # Roster
+ 
+### Josh Dreben
+> Major: Computer Science </br>
+> ***I am a second year undergrad with a passion for all things web dev and music. I'm excited to get experience working in a team of like-minded and
+> hardworking people in this class.*** </br>
+> [Josh's Personal Github Page](https://github.com/joshdreben)
+
 
 ### Pourya Joulapour
 > Major: Computer Engineering </br>
