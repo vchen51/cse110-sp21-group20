@@ -37,3 +37,7 @@
 > ***I'm a third year student with an interest in mathematics, theoretical computer science, and quantum computing. I enjoy reading and breaking video games.*** </br>
 > [Tyler's Personal Github Page](https://github.com/tylerktng)
 
+### Rosey Bugayong
+> Major: Computer Science </br>
+> ***I'm a second year student with an interest in web development and overall front-end development. I enjoy running, hiking, and doing basically anything with friends. I am looking forward to learning more skills in front-end development in this class and working with this group.*** </br>
+> [Rosey's Personal Github Page](https://github.com/roseybugayon)
