@@ -32,4 +32,8 @@
 > ***I'm a third year with an interest in cybersecurity and general software development. I spend my free time reading, working out, and fishing.***</br>
 > [Sam's Peronal Github Page](https://github.com/sam3kent)
 
+### Tyler Ng
+> Major: Computer Science </br>
+> ***I'm a third year student with an interest in mathematics, theoretical computer science, and quantum computing. I enjoy reading and breaking video games.*** </br>
+> [Tyler's Personal Github Page](https://github.com/tylerktng)
 
