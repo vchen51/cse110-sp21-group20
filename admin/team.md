@@ -27,4 +27,9 @@
 > ***I'm a second year student who enjoys full-end development and wants to adventure into video game development! I spend my free-time drawing, playing video games with friends, and exploring new hobbies! I'm looking forward to put my all into developing the project and working with a great team.*** </br>
 > [Vanessa's Personal Github Page](https://github.com/vchen51)
 
+### Sam Kent
+> Major: Computer Engineering </br>
+> ***I'm a third year with an interest in cybersecurity and general software development. I spend my free time reading, working out, and fishing.***</br>
+> [Sam's Peronal Github Page](https://github.com/sam3kent)
+
 
