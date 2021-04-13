@@ -1,4 +1,4 @@
- # Team Name (PlaceHolder)
+ # WeCommitToMaster
 
  # Values
 
