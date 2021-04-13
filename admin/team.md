@@ -39,5 +39,5 @@
 
 ### Rosey Bugayong
 > Major: Computer Science </br>
-> ***I'm a second year student with an interest in web development and overall front-end development. I enjoy running, hiking, and doing basically anything with friends. I am looking forward to learning more skills in front-end development in this class and working with this group.*** </br>
+> ***I'm a second year student with an interest in web development and overall front-end development. I enjoy running, hiking, and doing basically anything with friends. I am looking forward to learning more skills in front-end development in this class and working with this group!*** </br>
 > [Rosey's Personal Github Page](https://github.com/roseybugayon)
