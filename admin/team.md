@@ -12,6 +12,11 @@
 > hardworking people in this class.*** </br>
 > [Josh's Personal Github Page](https://github.com/joshdreben)
 
+### Berkeley Erwin
+> Major: Computer Engineering </br>
+> ***I'm a third year student who enjoys rock climbing, playing video games, brewing tea, and learning about computer architecture. I'm looking forward to working towards creating an amazing team environment and create a cool project together.***</br>
+> [Berkeley's Peronal Github Page](https://github.com/BerkeleyErwin)
+
 ### Pourya Joulapour
 > Major: Computer Engineering </br>
 > ***I am a third year student with an interest in cybersecurity, AI, playing the guitar, and learning about startups. I hope I can learn some of the technical skills that I need for running a startup in CSE 110.*** </br>
