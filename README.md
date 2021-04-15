@@ -1,2 +1,5 @@
-# cse110-sp21-group20
-Our team page: https://github.com/cse110-sp21-group20/cse110-sp21-group20/blob/main/admin/team.md 
+
+# CSE 110 - Spring 2021 (Group 20)
+
+[Team Page](admin/team.md)
+
