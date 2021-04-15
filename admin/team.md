@@ -1,7 +1,14 @@
  # WeCommitToMaster
+> **We are WeCommitToMaster, a group of highly motivated individuals working together to develop quality a product. We enjoy playing skribbl.io 
+> and misspelling words such as "bugler" and "ballon".**
+![WeCommitToMaster Logo](https://raw.githubusercontent.com/cse110-sp21-group20/cse110-sp21-group20/main/admin/branding/Logo%20(Light).png?token=ALJ42JOJEN3Q37BSYL6A4JLAPCTNG)
 
  # Values
-
+ * ### Respectful
+ * ### Kind
+ * ### Communicative
+ * ### Responsible
+ * ### Innovative
 
 
  # Roster
