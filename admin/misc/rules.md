@@ -22,7 +22,7 @@
 
 > * Slack will be used as the primary software application for communication.
 > * Zoom will be used as the primary software application for holding meetings.
-> * A serparate channel on Slack will be used for information regarding meetings.
+> * A separate channel on Slack will be used for information regarding meetings.
 > * Daily standup meetings will be done in a separate channel in Slack. 
 > * Each member of the group is expected to show up to the meetings at least a couple  minutes prior to the start of them and if they cannot make it, they are expected to let the team know in advance through the channel created for meetings’ links and announcements.
 > * Each member of the group is expected to check Slack on a regular basis and respond to anything requested of them as soon as possible.
