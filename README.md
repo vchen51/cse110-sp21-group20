@@ -1,1 +1,3 @@
-# cse110-s21-group20
+# CSE 110 - Spring 2021 (Group 20)
+
+[Team Page](admin/team.md)
