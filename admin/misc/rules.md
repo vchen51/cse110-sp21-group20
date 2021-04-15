@@ -59,6 +59,10 @@
 
 > * If there is a conflict arising in the group as a result of a member not contributing to the project or anything of that nature, it is expected that everyone in the group will try to solve the issue before reporting to the manager (TA) for the project. If the issue cannot be solved internally, the issue needs to be reported to the manager for further guidance.
 
+* * * 
+
+#### 8) Signature
+
 
 
 
