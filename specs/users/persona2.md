@@ -1,14 +1,14 @@
-## Role:
+## Role
 First Year Transfer Student
-## Name:
+## Name
 Mike 
-## Image:
+## Image
 ![Mike's Picture](/specs/users/collegestudent.JPG)
 ## Background
-**AGE:** 23 </br>
-**LOCATION:** New York </br>
-**MARITAL STATUS:** Not Married but has a Girlfriend </br>
-**MAJOR:** Social Studies </br>
+**Age:** 23 </br>
+**Location:** New York </br>
+**Marital Status:** Not Married but has a Girlfriend </br>
+**Major:** Social Studies </br>
 
 ## Characteristics
 - Outgoing
@@ -34,7 +34,7 @@ Mike
 - Get straight A's in all of his classes as getting into a top university such as Harvard requires a very solid GPA
 - Get involved in an organization at his school to help him with his resume. He prefers the organization to be something related to social movements/social issues.
 - Get started on a research study by asking multiple professors to be their assistants
-- 
+- Start reading books not related to his major. Books like 12 Rules for Life by Peterson or 
 -  
   
  
