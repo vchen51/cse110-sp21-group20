@@ -44,7 +44,9 @@ Mike
 - He keeps losing his notes about his priorities and that is really frustrating to him as every time he loses his notes, he has to start everything over again.
 
 ## Needs
-- He needs to find a way to better organize his daily routine so that he can cope with the difficuluty of the quarter system
-- He needs to 
+- He needs to find a way to better organize his daily routine so that he can cope with the difficuluty of the quarter system.
+- He needs to find a mentor so that he can better understand each step he needs to take in order to become successful.
+- He needs to stop watching too much YouTube so that he can focus more on his school work.
+- He needs to become better at giving and writing speeches.  
   
  
