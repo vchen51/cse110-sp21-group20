@@ -34,7 +34,17 @@ Mike
 - Get straight A's in all of his classes as getting into a top university such as Harvard requires a very solid GPA
 - Get involved in an organization at his school to help him with his resume. He prefers the organization to be something related to social movements/social issues.
 - Get started on a research study by asking multiple professors to be their assistants
-- Start reading books not related to his major. Books like 12 Rules for Life by Peterson or 
--  
+- Start reading books not related to his major. Books like 12 Rules for Life by Peterson or The Organized Mind 
+
+## Frustrations
+- He's afraid he cannot achieve any of his goal to due his lack of discipline
+- He's afraid he might not be able to get good grades now that he is going to a university that is on the quarter system
+- Due to the pressure from the quarter system, he is afraid he might not be able to get invloved in extracurricular activities that are needed for graduate school
+- He doesn't know how to organize his life in a productive way, and as a result of that, he wastes a lot of time just doing things that might not be as important as they should be in order for him achieve his goals.
+- He keeps losing his notes about his priorities and that is really frustrating to him as every time he loses his notes, he has to start everything over again.
+
+## Needs
+- He needs to find a way to better organize his daily routine so that he can cope with the difficuluty of the quarter system
+- He needs to 
   
  
