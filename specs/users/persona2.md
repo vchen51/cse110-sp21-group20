@@ -3,4 +3,4 @@ First Year Transfer Student
 ## Name:
 Mike
 ## Image:
-![] (/cse110-sp21-group20/specs/users/collegestudents.JPG)
+![Mike's Picture] (/specs/users/collegestudent.JPG)
