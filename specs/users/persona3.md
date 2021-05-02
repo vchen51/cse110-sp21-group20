@@ -5,49 +5,42 @@ Khaled
 ## Image
 ![Khaled's Picture](/specs/users/collegestudent3.JPG)
 ## Background
-**Age:** 23 </br>
-**Location:** New York </br>
-**Marital Status:** Not Married but has a Girlfriend </br>
-**Major:** Social Studies </br>
+**Age:** 22 </br>
+**Location:** Los Angeles </br>
+**Marital Status:** Single </br>
+**Major:** Math and Computer Science </br>
 
 ## Characteristics
-- Outgoing
-- A Procrastinator
-- Cares About Politics
-- Very Focused on School (Cares a lot About his Grades)
-- Watches a lot of Motivational Videos on YouTube
-- Gets Stressed out a lot When a due Date Approaches
-- Loves Yoga
-- Hates Drinking
-- Big Fan of Jordan Peterson
-- Loves Technology but Only if it Helps him Become More Productive or if it Helps the Planet 
-- Doesn't Like Learning Things That are Too Complicated
+- Tech-Savvy
+- Loves Solving Hard Problems
+- Loves Reading, Writing, and Playing Video Games
+- Cares About Learning a Lot
+- Doesn't Like Fast Food 
+- Gets Stressed out With School and Personal Programming Assignments
+- Loves Doing Side Projects
+- Bill Gates is his Role Model
+- Hates Living in LA
 
 ## Long-Term Goals
-- Wants to go to graduate school to continue his studies on the role of gender in society
-- Wants to become a successful professor at a top notch university after receiving his PhD in social sciences
-- Wants to be able to become a research engine for the university he works for
-- After spending enough time in academia, he wants to use his knowledge to help his country/society as a politician
-- Wants to save the planet by helping pass policies that aim at reducing the production of CO2 as well as any activity that puts other species like trees in danger
+- Wants to get an engineering job at Google
+- Wants to become a successful entrepreneur after gaining enough experience in the industry
+- Wants to be able to use AI to help advance medical technologies
 
 ## Short-Term Goals
-- Get straight A's in all of his classes as getting into a top university such as Harvard requires a very solid GPA
-- Get involved in an organization at his school to help him with his resume. He prefers the organization to be something related to social movements/social issues
-- Get started on a research study by asking multiple professors to be their assistants
-- Start reading books not related to his major. Books like 12 Rules for Life by Peterson or The Organized Mind 
+- Get familiar with more frameworks in JavaScript so that he can apply to more internships
+- Apply for internships
+- Do well in his remaining classes as he feels that he's reached the point of burnout after four years of hardwork
 
 ## Frustrations
-- He's afraid he cannot achieve any of his goal to due his lack of discipline
-- He's afraid he might not be able to get good grades now that he is going to a university that is on the quarter system
-- Due to the pressure from the quarter system, he is afraid he might not be able to get invloved in extracurricular activities that are needed for graduate school
-- He doesn't know how to organize his life in a productive way, and as a result of that, he wastes a lot of time just doing things that might not be as important as they should be in order for him achieve his goals
-- He keeps losing his notes about his priorities and that is really frustrating to him as every time he loses his notes, he has to start everything over again
+- His Intro to AI class is very challenging and he's afraid he cannot pass that coursse
+- The pandemic has made it really challenging for him to stay on top of his assignments
+- As someone who wants to become an entrepreneur, he's afraid he doesn't have all the knowledge required for being successful at starting a new business
 
 ## Needs
-- He needs to find a way to better organize his daily routine so that he can cope with the difficuluty of the quarter system
-- He needs to find a mentor so that he can better understand each step he needs to take in order to become successful
-- He needs to stop watching too much YouTube so that he can focus more on his school work
-- He needs to become better at giving and writing speeches
+- He needs to use something to track his progress towards his goals so that he can stay motivated
+- He needs to move to another city/state after graduating so he can get an intership at his dream company
+- He needs to practice more on LeetCode so he can prepare for interviews
+- He needs to become better at prioritizing his tasks  
   
  
 
