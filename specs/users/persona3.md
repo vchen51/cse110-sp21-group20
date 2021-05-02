@@ -30,11 +30,13 @@ Khaled
 - Get familiar with more frameworks in JavaScript so that he can apply to more internships
 - Apply for internships
 - Do well in his remaining classes as he feels that he's reached the point of burnout after four years of hardwork
+- Learn how to pay close attention to details
 
 ## Frustrations
 - His Intro to AI class is very challenging and he's afraid he cannot pass that coursse
 - The pandemic has made it really challenging for him to stay on top of his assignments
 - As someone who wants to become an entrepreneur, he's afraid he doesn't have all the knowledge required for being successful at starting a new business
+- He doesn't have a good memory and that has caused him a lot of troubles such as missing a couple important assignments
 
 ## Needs
 - He needs to use something to track his progress towards his goals so that he can stay motivated
