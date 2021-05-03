@@ -1,4 +1,4 @@
-# Target Customers (Potential Users)
+# Target Customers (Users)
 
 * Status: **accepted** 
 * Deciders:  Pourya Joulapour, Berkeley Erwin, Josh Dreben, Rosey Bugayong, Tyler Ng, Vanessa Chen, Samuel Kent, Tanay Reddy
