@@ -1,8 +1,8 @@
 # Workflow
 
-* Status: **proposed**
-* Deciders: N/A
-* Date: May 7, 2021
+* Status: **Accepted**
+* Deciders: Pourya Joulapour, Berkeley Erwin, Josh Dreben, Rosey Bugayong, Tyler Ng, Vanessa Chen, Samuel Kent, Tanay Reddy
+* Date: May 8, 2021
 
 ## Context and Problem Statement
 To ensure a smooth workflow, we need to decide how our git repository is managed going forward.
@@ -19,7 +19,9 @@ To ensure a smooth workflow, we need to decide how our git repository is managed
 * Modify the workflow described in the document above
 
 ## Decision Outcome
-N/A
+Go with option 2 - we will require members to follow the outline, but branch protections will be manual (!). The pipeline will be implemented and details will be put in a second document.
+
+Updates to the workflow have been made.
 
 ### Positive Consequences
 
