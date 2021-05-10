@@ -20,6 +20,8 @@ jobs:
     strategy:
       matrix:
         node: [14]
+    env:
+      working-dir: ./src/easify
     steps:
       #Checkout
       - name: Checkout
@@ -38,12 +40,13 @@ jobs:
             ${{ runner.os }}-node-
       #Install with npm
       - name: Install modules
-        run: npm ci
-        working-directory: $GITHUB_WORKSPACE/src/easify/
+        run: |
+          npm ci
+        working-directory: ${{env.working-dir}}
       #Run ESLint
       - name: Lint
         run: npm run lint
-        working-directory: $GITHUB_WORKSPACE/src/easify/
+        working-directory: ${{env.working-dir}}
   build:
     runs-on: ubuntu-latest
     strategy:
@@ -68,9 +71,9 @@ jobs:
       #Install with npm
       - name: Install modules
         run: npm ci
-        working-directory: $GITHUB_WORKSPACE/src/easify/
+        working-directory: ${{env.working-dir}}
       #Build and test
       - name: Build
         run: npm run build
-        working-directory: $GITHUB_WORKSPACE/src/easify/
+        working-directory: ${{env.working-dir}}
 
