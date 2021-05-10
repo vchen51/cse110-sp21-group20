@@ -39,12 +39,11 @@ jobs:
       #Install with npm
       - name: Install modules
         run: npm ci
+        working-directory: $GITHUB_WORKSPACE/src/easify/
       #Run ESLint
       - name: Lint
         run: npm run lint
-      #Build and test
-      - name: Build
-        run: npm run build
+        working-directory: $GITHUB_WORKSPACE/src/easify/
   build:
     runs-on: ubuntu-latest
     strategy:
@@ -69,6 +68,9 @@ jobs:
       #Install with npm
       - name: Install modules
         run: npm ci
+        working-directory: $GITHUB_WORKSPACE/src/easify/
       #Build and test
       - name: Build
         run: npm run build
+        working-directory: $GITHUB_WORKSPACE/src/easify/
+
