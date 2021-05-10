@@ -52,6 +52,8 @@ jobs:
     strategy:
       matrix:
         node: [14]
+    env:
+      working-dir: ./src/easify
     steps:
       #Checkout
       - name: Checkout
