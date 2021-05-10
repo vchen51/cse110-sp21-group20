@@ -24,6 +24,7 @@ The following are planned to be added to the CI pipeline:
     * Unsure as to do them manually (i.e. a 'test' user visits the website) or simply test functionality
     * Ideas:
         - Test button groups w/ data persistence?
+* JSDocs?
 * Automatic labelling?
 * Deployment - have not figured it out yet.
 
