@@ -6,7 +6,7 @@ import YearCard from './year-card';
  * For the user's dashboard
  * @returns Dash Object
  */
-export default function Dash({ data }) {
+export default function Dash({ data, changePage }) {
   return (
     <div className={styles.wrap}>
       <div className={styles.header} />
@@ -19,8 +19,10 @@ export default function Dash({ data }) {
       <div className={styles.main}>
         {data.map((year) => (
           <YearCard
+            key={year.id}
             data={year}
             index={data.indexOf(year) + 1}
+            onClick={() => changePage()}
           />
         ))}
       </div>

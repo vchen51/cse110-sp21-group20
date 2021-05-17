@@ -6,11 +6,11 @@ import styles from '../styles/YearCard.module.css';
  * @param data year data
  * @param index year number
  */
-export default function YearCard({ data, index }) {
+export default function YearCard({ data, index, onClick }) {
   return (
-    <div className={styles.card}>
+    <button type="button" onClick={() => onClick()} className={styles.card}>
       <p>{`Year ${index}`}</p>
       <h1>{`${data.year}-${data.year + 1}`}</h1>
-    </div>
+    </button>
   );
 }
