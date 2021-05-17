@@ -31,7 +31,7 @@
 #### Decisions Made/Summary
 
 > * Task clarity seemed to ranked lower than other aspects of our project. Reasoning probably includes the fact that we're still getting used to the new tools
-> * Developers should partner up/text in general chat for the labs to help each other so we could focus more time on the project 
+> * People should partner up/text in general chat for the labs to help each other so we could focus more time on the project 
 > * More meetings for developers should happen (most likely Wednesday's) once the coding begins
 > * Making new channel on slack for deadlines of assignments to keep us organized and on task
 > * Overall, people agree that our team has good communication
