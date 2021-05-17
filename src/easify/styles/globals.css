@@ -1,16 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+
+/* Basic Clean Slate CSS Rules On All Elements */
 html,
-body {
+body,
+* {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-family: "Quicksand", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
+/* Global Variables For Color Pallette */
+:root {
+  --color-white: white;
+  --color-black: #130f26;
+  --color-gray: #f7f9fa;
+  --color-green: #5ebd96;
+  --color-gray-select: hsl(200, 23%, 96%);
 }
