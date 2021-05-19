@@ -11,18 +11,16 @@ import Content from '../components/content';
  * @returns Index Page Object
  */
 export default function Main() {
-  // TODO: Hook up localStorage backend
-
   /** FAKE DATA FOR DEBUG PURPOSES */
   const fakeData = [models.year];
 
-  /** FOR DEBUGGING PURPOSES
-   * Temp State Variable To Switch Between Dash & Content */
-  const [showContent] = useState(false);
+  const [showContent, setShowContent] = useState(false);
 
   return (
     <div className={styles.container}>
-      {showContent ? <Content data={fakeData} /> : <Dash data={fakeData} /> }
+      {showContent
+        ? <Content data={fakeData} changePage={() => setShowContent(false)} />
+        : <Dash data={fakeData} changePage={() => setShowContent(true)} /> }
     </div>
   );
 }
