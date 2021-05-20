@@ -1,3 +1,5 @@
+/** GET RID OF LINE BELOW WHEN DATA IS REAL */
+/* eslint-disable no-unused-vars */
 import { useState } from 'react';
 import styles from '../styles/Main.module.css';
 import models from '../models/models';
@@ -16,11 +18,28 @@ export default function Main() {
 
   const [showContent, setShowContent] = useState(false);
 
+  const [currYear, setCurrYear] = useState(0);
+  const [currQuarter, setCurrQuarter] = useState('q1');
+  const [currWeek, setCurrWeek] = useState('w1');
+
   return (
     <div className={styles.container}>
       {showContent
-        ? <Content data={fakeData} changePage={() => setShowContent(false)} />
-        : <Dash data={fakeData} changePage={() => setShowContent(true)} /> }
+        ? (
+          <Content
+            data={fakeData}
+            year={{ val: currYear, set: setCurrYear }}
+            quarter={{ val: currQuarter, set: setCurrQuarter }}
+            week={{ val: currWeek, set: setCurrWeek }}
+            changePage={() => setShowContent(false)}
+          />
+        )
+        : (
+          <Dash
+            data={fakeData}
+            changePage={() => setShowContent(true)}
+          />
+        )}
     </div>
   );
 }

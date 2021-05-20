@@ -5,6 +5,7 @@ import styles from '../styles/YearCard.module.css';
  * For the year cards shown in the dashboard
  * @param data year data
  * @param index year number
+ * @param onClick function shows content page
  */
 export default function YearCard({ data, index, onClick }) {
   return (
