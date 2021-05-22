@@ -7,13 +7,21 @@ import Dash from '../components/dash';
 import Content from '../components/content';
 
 /**
- * This file will contain the necessarry UI+Implementation
- * For the index page of the web-app, either showing the
+ * @file This file will contain the necessarry UI+Implementation
+ * for the index page of the web-app, either showing the
  * dashboard or main year/quarter/week content page
+ * @module Pages
+ */
+
+/**
+ * @todo Needs a description.
  * @returns Index Page Object
+ * @author Josh Dreben
+ * @name Main
+ * @function
  */
 export default function Main() {
-  /** FAKE DATA FOR DEBUG PURPOSES */
+  /** @todo FAKE DATA FOR DEBUG PURPOSES */
   const fakeData = [models.year];
 
   const [showContent, setShowContent] = useState(false);
