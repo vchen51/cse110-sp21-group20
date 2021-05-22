@@ -3,7 +3,7 @@ import styles from '../styles/YearCard.module.css';
 /**
  * @file This file contains all necessary UI+Implementation
  * for the year cards shown in the dashboard
- * @module Styles
+ * @module Components
  */
 
 /**
