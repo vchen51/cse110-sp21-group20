@@ -1,8 +1,17 @@
 import styles from '../styles/YearCard.module.css';
 
 /**
- * This file contains all necessary UI+Implementation
- * For the year cards shown in the dashboard
+ * @file This file contains all necessary UI+Implementation
+ * for the year cards shown in the dashboard
+ * @module Styles
+ */
+
+/**
+ * YearCard. 
+ * @returns Content object
+ * @author Josh Dreben
+ * @name YearCard
+ * @function
  * @param data year data
  * @param index year number
  * @param onClick function shows content page
