@@ -18,12 +18,17 @@
 
 .settingsbtn { 
   width: 9rem;
+<<<<<<< HEAD
+=======
+  
+>>>>>>> becd28a45a88bc5274f35f019fbf33bab6e24233
 }
 
 .settingsbtn span { 
   display:flex;
   flex-direction: row;
   justify-content: center;
+<<<<<<< HEAD
 }
 
 
@@ -90,6 +95,30 @@
   text-align: center;
 }
 
+=======
+}
+
+
+.topheader {
+  display: flex;
+  justify-content: space-between;
+  height: 4rem;
+  margin-left: auto;
+  padding: 0.5%;
+}
+
+#profilepic { 
+  margin-left: 5%;
+}
+
+.yearelement {
+  margin: 0 5px;
+  padding: 0 5px;
+  align-items: center;
+  text-align: center;
+}
+
+>>>>>>> becd28a45a88bc5274f35f019fbf33bab6e24233
 /** HEADER STUFF **/
 /* TEMP BACK BUTTON */
 .backbtn {
@@ -104,7 +133,11 @@
   margin:5px 0;
   height:2px;
   background:
+<<<<<<< HEAD
   repeating-linear-gradient(to right,#E3E5E5 0,#E3E5E5 5px,transparent 5px,transparent 7px)
+=======
+    repeating-linear-gradient(to right,#E3E5E5 0,#E3E5E5 5px,transparent 5px,transparent 7px)
+>>>>>>> becd28a45a88bc5274f35f019fbf33bab6e24233
     /*5px red then 2px transparent -> repeat this!*/
 }
 

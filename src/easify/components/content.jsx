@@ -1,7 +1,10 @@
 /* eslint-disable no-unused-vars */
 // import { useState } from 'react';
 import styles from '../styles/Content.module.css';
+<<<<<<< HEAD
 import EntryCard from './entry-card';
+=======
+>>>>>>> becd28a45a88bc5274f35f019fbf33bab6e24233
 import Image from 'next/image'
 
 /**
@@ -36,11 +39,17 @@ export default function Content({
       </div> 
 
       <div className={styles.header}>
+<<<<<<< HEAD
         <button
           className={styles.backbtn}
           type="button"
           onClick={() => changePage()}
         >
+=======
+
+        {/** TEMP BACK BTN FOR EASE OF USE */}
+        <button className={styles.backbtn} type="button" onClick={() => changePage()}>
+>>>>>>> becd28a45a88bc5274f35f019fbf33bab6e24233
           Go Back
         </button>
 
@@ -71,6 +80,7 @@ export default function Content({
       </div>
       
       <div className={styles.main}>
+<<<<<<< HEAD
         <div className={styles.index} />
         <div className={styles.entrieswrap}>
           {entries.val.map((entry) => (
@@ -87,6 +97,10 @@ export default function Content({
         >
           Create New Entry
         </button>
+=======
+        
+      <div className={styles.index} />
+>>>>>>> becd28a45a88bc5274f35f019fbf33bab6e24233
       </div>
     </div>
   );
