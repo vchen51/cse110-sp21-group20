@@ -1,8 +1,11 @@
+/* eslint-disable no-unused-vars */
+// import { useState } from 'react';
 import styles from '../styles/Content.module.css';
+import EntryCard from './entry-card';
 import Image from 'next/image'
 
 /**
- * @file This file will contain all necessary UI+Implementation 
+ * @file This file will contain all necessary UI+Implementation
  * for the main content of the web-app
  * @module Content
  */
@@ -15,8 +18,14 @@ import Image from 'next/image'
  * @function
  */
 /* DELETE LINE BELOW WHEN YEAR, WEEK, AND QUARTER ARE ALL BEING USED */
-// eslint-disable-next-line no-unused-vars
-export default function Content({ changePage, year, week, quarter }) {
+export default function Content({
+  entries,
+  data,
+  changePage,
+  year,
+  week,
+  quarter,
+}) {
   return (
     <div className={styles.wrap}>
       {/** HEADER: YEAR, SETTINGS, PROFILE, QUARTERS, PREVIOUS */}
@@ -27,7 +36,11 @@ export default function Content({ changePage, year, week, quarter }) {
       </div> 
 
       <div className={styles.header}>
-        <button className={styles.backbtn} type="button" onClick={() => changePage()}>
+        <button
+          className={styles.backbtn}
+          type="button"
+          onClick={() => changePage()}
+        >
           Go Back
         </button>
 
@@ -58,8 +71,22 @@ export default function Content({ changePage, year, week, quarter }) {
       </div>
       
       <div className={styles.main}>
-        
-      <div className={styles.index} />
+        <div className={styles.index} />
+        <div className={styles.entrieswrap}>
+          {entries.val.map((entry) => (
+            <EntryCard key={entry.id} entries={entries} entry={entry} />
+          ))}
+        </div>
+        <button
+          type="button"
+          onClick={() => entries.set([
+            { id: Date.now(), rows: [], title: new Date().toDateString() },
+            ...entries.val,
+          ])}
+          className={styles.addbtn}
+        >
+          Create New Entry
+        </button>
       </div>
     </div>
   );
